@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="EditTextMultipleMask">
+        <attr name="first_mask" format="string" />
+        <attr name="second_mask" format="string" />
+    </declare-styleable>
+</resources>
